@@ -7,16 +7,16 @@ Este es el desarrollo funcional para el proyecto de Tesis "APLICACIÓN MÓVIL PA
     https://expo.dev/
 ```
 
-## Contacto 📬
+## Contribuidores 📬
 
 ```
-    martinezsiobhan0@gmail.com
+    https://github.com/siobhanmt3
 ```
 ```
-    julian.csn27@gmail.com
+    https://github.com/JulianCSN
 ```
 ```
-    dmarterqz@gmail.com
+    https://github.com/SpicyGarnachas
 ```
 
 ### Nota
