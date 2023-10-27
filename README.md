@@ -1,26 +1,23 @@
-# Bienvenido al Frontend de Mercurio
-👋 Hola soy SiobhanMt3
+# APP-MERCURIO
+Mobile Application for Creating a Positive Impact on the Environment through Circular Economy. <br/>
+This mobile application was used as a thesis project at the University of Colima.
 
-Este es el desarrollo funcional para el proyecto de Tesis "APLICACIÓN MÓVIL PARA GENERAR UN IMPACTO POSITIVO EN EL MEDIO AMBIENTE MEDIANTE LA ECONOMÍA CIRCULAR" fue programada usando el sitio expo
+App developed with React Native on the [Expo](https://expo.dev/) site <br/>
+You can see the project here: https://snack.expo.dev/@josejulian27/mercurio_apptesisv4
+ 
+## Contributors 📬
 
-```
-    https://expo.dev/
-```
+  * [JulianCSN](https://github.com/JulianCSN) (Design & FrontEnd)
 
-## Contribuidores 📬
 
-```
-    https://github.com/siobhanmt3
-```
-```
-    https://github.com/JulianCSN
-```
-```
-    https://github.com/SpicyGarnachas
-```
+  * [siobhanmt3](https://github.com/siobhanmt3) (BackEnd & FrontEnd)
 
-### Nota
 
-Se han encontrado incompatibilidades en algunas imagenes pero esperamos realizar una solución pronto
+  * [SpicyGarnachas](https://github.com/SpicyGarnachas) (BackEnd & FrontEnd)
+
+
+### Note
+
+This is a functional prototype that will be updated for implementation in real environment.
 
 
